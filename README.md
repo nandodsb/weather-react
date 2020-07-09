@@ -46,7 +46,7 @@ Foi ministrado por <a href="https://github.com/TylerPottsDev/weather-react">Tyle
 
 <h2>📃Licença</h2>
 
-Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/Chat-App/blob/master/LICENSE.md">Licença</a> e saiba mais.
+Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/weather-react/blob/master/LICENSE.md">Licença</a> e saiba mais.
 
 ------------
 
